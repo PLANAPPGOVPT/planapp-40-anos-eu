@@ -1,0 +1,106 @@
+{
+  "repository": "PLANAPPGOVPT/planapp-40-anos-eu",
+  "branch": "main",
+  "images": [
+    {
+      "name": "40PT_half_vertical-azul.svg",
+      "path": "images/40PT_half_vertical-azul.svg",
+      "url": "https://raw.githubusercontent.com/PLANAPPGOVPT/planapp-40-anos-eu/main/images/40PT_half_vertical-azul.svg"
+    },
+    {
+      "name": "carlos-coelho.jpeg",
+      "path": "images/carlos-coelho.jpeg",
+      "url": "https://raw.githubusercontent.com/PLANAPPGOVPT/planapp-40-anos-eu/main/images/carlos-coelho.jpeg"
+    },
+    {
+      "name": "icon-atividade-economica.jpeg",
+      "path": "images/icon-atividade-economica.jpeg",
+      "url": "https://raw.githubusercontent.com/PLANAPPGOVPT/planapp-40-anos-eu/main/images/icon-atividade-economica.jpeg"
+    },
+    {
+      "name": "icon-capital-humano.jpeg",
+      "path": "images/icon-capital-humano.jpeg",
+      "url": "https://raw.githubusercontent.com/PLANAPPGOVPT/planapp-40-anos-eu/main/images/icon-capital-humano.jpeg"
+    },
+    {
+      "name": "icon-descarbonizacao.png",
+      "path": "images/icon-descarbonizacao.png",
+      "url": "https://raw.githubusercontent.com/PLANAPPGOVPT/planapp-40-anos-eu/main/images/icon-descarbonizacao.png"
+    },
+    {
+      "name": "icon-id.jpeg",
+      "path": "images/icon-id.jpeg",
+      "url": "https://raw.githubusercontent.com/PLANAPPGOVPT/planapp-40-anos-eu/main/images/icon-id.jpeg"
+    },
+    {
+      "name": "icon-infraestruturas.jpeg",
+      "path": "images/icon-infraestruturas.jpeg",
+      "url": "https://raw.githubusercontent.com/PLANAPPGOVPT/planapp-40-anos-eu/main/images/icon-infraestruturas.jpeg"
+    },
+    {
+      "name": "icon-saude.jpeg",
+      "path": "images/icon-saude.jpeg",
+      "url": "https://raw.githubusercontent.com/PLANAPPGOVPT/planapp-40-anos-eu/main/images/icon-saude.jpeg"
+    },
+    {
+      "name": "image-01.png",
+      "path": "images/image-01.png",
+      "url": "https://raw.githubusercontent.com/PLANAPPGOVPT/planapp-40-anos-eu/main/images/image-01.png"
+    },
+    {
+      "name": "image-02.png",
+      "path": "images/image-02.png",
+      "url": "https://raw.githubusercontent.com/PLANAPPGOVPT/planapp-40-anos-eu/main/images/image-02.png"
+    },
+    {
+      "name": "image-03.png",
+      "path": "images/image-03.png",
+      "url": "https://raw.githubusercontent.com/PLANAPPGOVPT/planapp-40-anos-eu/main/images/image-03.png"
+    },
+    {
+      "name": "image-04.png",
+      "path": "images/image-04.png",
+      "url": "https://raw.githubusercontent.com/PLANAPPGOVPT/planapp-40-anos-eu/main/images/image-04.png"
+    },
+    {
+      "name": "image-05.png",
+      "path": "images/image-05.png",
+      "url": "https://raw.githubusercontent.com/PLANAPPGOVPT/planapp-40-anos-eu/main/images/image-05.png"
+    },
+    {
+      "name": "image-06.png",
+      "path": "images/image-06.png",
+      "url": "https://raw.githubusercontent.com/PLANAPPGOVPT/planapp-40-anos-eu/main/images/image-06.png"
+    },
+    {
+      "name": "image-07.png",
+      "path": "images/image-07.png",
+      "url": "https://raw.githubusercontent.com/PLANAPPGOVPT/planapp-40-anos-eu/main/images/image-07.png"
+    },
+    {
+      "name": "image-08.png",
+      "path": "images/image-08.png",
+      "url": "https://raw.githubusercontent.com/PLANAPPGOVPT/planapp-40-anos-eu/main/images/image-08.png"
+    },
+    {
+      "name": "image-09.png",
+      "path": "images/image-09.png",
+      "url": "https://raw.githubusercontent.com/PLANAPPGOVPT/planapp-40-anos-eu/main/images/image-09.png"
+    },
+    {
+      "name": "image-10.png",
+      "path": "images/image-10.png",
+      "url": "https://raw.githubusercontent.com/PLANAPPGOVPT/planapp-40-anos-eu/main/images/image-10.png"
+    },
+    {
+      "name": "image-11.png",
+      "path": "images/image-11.png",
+      "url": "https://raw.githubusercontent.com/PLANAPPGOVPT/planapp-40-anos-eu/main/images/image-11.png"
+    },
+    {
+      "name": "pedro-saraiva.jpeg",
+      "path": "images/pedro-saraiva.jpeg",
+      "url": "https://raw.githubusercontent.com/PLANAPPGOVPT/planapp-40-anos-eu/main/images/pedro-saraiva.jpeg"
+    }
+  ]
+}
